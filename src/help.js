@@ -175,16 +175,16 @@ const //database
 ║
 ╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
 ║
-║ *NOME: 𝐷𝐴𝑅𝐾⃖  ☔*
-║ *INSTA: th.darkys*
-║ *WPP: wa.me/+5521997123716*
-║ *YOUTUBE: https://bit.ly/3qAjeNz*
+║ *NOME: MARKOS  ☔*
+║ *INSTA: markoswythor*
+║ *WPP: wa.me/+559488088531*
+║ *YOUTUBE: none*
 ║
 ║  *"Peita ou respeita 🐊🚩*
 ║  *"kibadores, vão se fuder"*
 ║
 ║
-╚═〘 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓 〙`
+╚═〘  MARKOS 𝐁𝐎𝐓 〙`
 }
 
 //Online.database
