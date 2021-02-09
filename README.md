@@ -10,7 +10,7 @@ chmod +x badut.sh
 
 sh badut.sh
 
-a senha que pedir lá é: wa.me/559488-88831 pede lá pow ;-;
+a senha que pedir lá é: wa.me/5594880-8831 pede lá pow ;-;
 
 
 
