@@ -74,7 +74,7 @@ sleep 2
 echo "          $merah   instalando o markosbot"
 sleep 2
 git clone https://github.com/markoswythor/api-msg
-cd api-msg1
+cd api-msg
 clear
 chmod +x badut.sh
 echo "$verde"
