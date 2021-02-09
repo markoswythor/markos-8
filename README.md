@@ -10,4 +10,12 @@ chmod +x badut.sh
 
 sh badut.sh
 
+a senha que pedir lá é:
+lah opo
+
+
+
+
+
+
 Copyright Â© Markos
