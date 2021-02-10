@@ -1,12 +1,4 @@
-#!/bin/bash
-merah="\033[1;31m"
-hijau="\033[1;32m"
-putih="\033[1;37m"
-biru="\033[0;34m"
-kuning="\033[1;33m"
-paku="amarelo"
-until [ "$pass" = "$paku" ]
-do
+
 clear
 sleep 2
 echo "$merah            ____________"
@@ -28,7 +20,7 @@ echo "|__________| $merah"
 echo "                     _________________________________"
 echo "                    | Ferramenta para remover bug npm |"
 echo "                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
-read -p "insira a senha da ferramenta dnv pfv : " pass
+read "insira a senha da ferramenta dnv pfv :
 echo "Por favor espere um momento....."
 sleep 3
 done
@@ -86,4 +78,3 @@ sleep 2
 echo "carga......."
 sleep 7
 npm start
-fi
