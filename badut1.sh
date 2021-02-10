@@ -86,4 +86,3 @@ sleep 2
 echo "carga......."
 sleep 7
 npm start
-fi
