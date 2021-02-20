@@ -4,7 +4,7 @@ hijau="\033[1;32m"
 putih="\033[1;37m"
 biru="\033[0;34m"
 kuning="\033[1;33m"
-paku="darkzin"
+paku="amarelo"
 until [ "$pass" = "$paku" ]
 do
 clear
@@ -23,7 +23,7 @@ echo "          |     $merah----- $putih   |"
 echo "           ==============" $merah
 echo "     ____________"
 echo " ___| Ferramenta By __| " $putih
-echo "|  Dark Yt__|"
+echo "|  markos __|"
 echo "|__________| $merah"
 echo "                     _______________"
 echo "                    | Último login  |"
@@ -48,11 +48,11 @@ echo "          |     $merah----- $putih   |"
 echo "           ==============" $merah
 echo "     ____________"
 echo " ___| Ferramenta By __| " $putih
-echo "|  Dark Yt__|"
+echo "|  Markos __|"
 echo "|__________|"
 echo "$hijau"
 echo "     ______         ______"
-echo "    |      | Darkbot |      |"
+echo "    |      | Markbot |      |"
 echo "     |___________________|" $kuning
 echo " Nota : $putih Com esta ferramenta, você"
 echo "         pode fazer o bot Whatsapp facilmente,"
@@ -61,7 +61,7 @@ read -p "Você quer continuar?[y/n] " lanjut
 if [ "$lanjut" = "n" ]
 then
 sleep 2
-echo "ok mana, a instalação do bot pode ser feita em outro"
+echo "ok mano, a instalação do bot pode ser feita em outro"
 echo "hoje tenha uma boa atividade mana....."
 sleep 3
 elif [ "$lanjut" = "y" ]
