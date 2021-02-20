@@ -25,11 +25,11 @@ echo "     ____________"
 echo " ___| Ferramenta By __| " $putih
 echo "|  Markos __|"
 echo "|__________| $merah"
-echo "                     ______________"
-echo "                    | Ferramenta de login  |"
-echo "                     ^^^^^^^^^^^^^^"
+echo "                     _________________________"
+echo "                    | Ferramenta de login 1•  |"
+echo "                     ^^^^^^^^^^^^^^^^^^^^^^^^^"
 read -p "insira a senha da ferramenta : " pass
-echo "Por favor espere um momento....."
+echo "Checando senha, aguarde....."
 sleep 3
 done
 clear
@@ -48,11 +48,11 @@ echo "          |     $merah----- $putih   |"
 echo "           ==============" $merah
 echo "     ____________"
 echo " ___| Ferramenta By __| " $putih
-echo "|  markos __|"
+echo "|  Markos __|"
 echo "|__________|"
 echo "$hijau"
 echo "     ______         ______"
-echo "    |      | Markbot |      |"
+echo "    |      | Markbot |    |"
 echo "     |___________________|" $kuning
 echo " Nota : $putih Com esta ferramenta, você"
 echo "         pode fazer o bot Whatsapp facilmente,"
@@ -71,19 +71,20 @@ echo "Por favor espere um momento....."
 sleep 4
 clear
 sleep 2
-echo "          $merah   instalando o markosbot"
+echo "          $merah   instalando o segundo login"
 sleep 2
-git clone https://github.com/markoswythor/api-msg
-cd api-msg
-clear
-chmod +x badut.sh
+git clone https://github.com/markoswythor/SITEX
+git clone https://github.com/markoswythor/apikey
+git clone https://github.com/markoswythor/testek
+cd markos-8
+chmod +x git.sh
 echo "$verde"
-echo "pfv faça seu login dnv, por segurança...."
+echo "Agora tem 2 etapas de senhas...."
 sleep 1
-echo "sistema de segurança ativado, Faça login dnv!"
+echo "Faça login mais duas vezes!"
 sleep 2
 echo "carregando o login......"
 sleep 7
-sh badut.sh
+sh git.sh
 echo ""
 fi
