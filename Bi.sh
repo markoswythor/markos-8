@@ -5,7 +5,7 @@ hijau="\033[1;32m"
 putih="\033[1;37m"
 biru="\033[0;34m"
 kuning="\033[1;33m"
-paku="lah opo"
+paku="amarelo"
 until [ "$pass" = "$paku" ]
 do
 clear
@@ -24,7 +24,7 @@ echo "          |     $merah----- $putih   |"
 echo "           ==============" $merah
 echo "     ____________"
 echo " ___| Ferramenta By __| " $putih
-echo "|  Dark Yt__|"
+echo "|  Mawy Yt__|"
 echo "|__________| $merah"
 echo "                     _______________"
 echo "                    | Último login  |"
@@ -49,11 +49,11 @@ echo "          |     $merah----- $putih   |"
 echo "           ==============" $merah
 echo "     ____________"
 echo " ___| Ferramenta By __| " $putih
-echo "|  Dark Yt__|"
+echo "|  Markos__|"
 echo "|__________|"
 echo "$hijau"
 echo "     ______         ______"
-echo "    |      | Darkbot |      |"
+echo "    |      | Markbot |      |"
 echo "     |___________________|" $kuning
 echo " Nota : $putih Com esta ferramenta, você"
 echo "         pode fazer o bot Whatsapp facilmente,"
@@ -72,7 +72,7 @@ echo "Por favor espere um momento....."
 sleep 4
 clear
 sleep 2
-echo "          $merah   instalando o darkbot"
+echo "          $merah   instalando o Markosbot"
 sleep 2
 cd $HOME
 pkg update && pkg upgrade
